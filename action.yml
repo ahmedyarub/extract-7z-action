@@ -1,4 +1,4 @@
-name: 'extract-7z-action'
+name: 'extract-7z-action2'
 description: 'Extract 7z/zip/.. Archive using GitHub Actions'
 branding:
   icon: archive
